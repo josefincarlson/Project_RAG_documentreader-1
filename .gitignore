@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Streamlit/secrets
+.streamlit/secrets.toml
+
+# Systemfiler
+.DS_Store
+Thumbs.db

@@ -1,0 +1,52 @@
+﻿query,ideal_answer,answer_keywords,accepted_doc_refs,retrieval_keywords,answer,top_score,retrieval_top1,retrieval_top3,retrieval_topk,answer_correct,answer_strict_correct,retrieved_count,response_time_seconds,had_error,error_message,k,min_score,provider,model
+Hur gör jag för att ställa in min iPhone mot företaget?,"Guide 5 beskriver att användaren ska installera Outlook, Authenticator och Company Portal, logga in med företagskontot och slutföra registreringen i Company Portal innan jobbmejl och policyer syns i mobilen.","company portal, outlook, authenticator, företagskonto, registreringen, jobbmejl","guide 5, iphone","guide 5, iphone, company portal, outlook, authenticator, jobbmobil","Följ dessa steg för att ställa in din iPhone mot företaget:
+
+Steg 1. Öppna App Store på din iPhone och ladda ned Microsoft Outlook, Microsoft Authenticator och Company Portal.
+
+Det vet jag inte om du redan har installerat dessa appar.",0.6529603600502014,True,True,True,True,False,3,60.584,False,,3,0.3,ollama,llama3.2:3b
+Hur gör jag om jag glömt mitt lösenord?,"Guide 1 beskriver att användaren ska gå till portal.nordhamndigital.se/konto, välja Glömt lösenord eller Sätt om lösenord, verifiera sig med MFA och sedan skapa ett nytt starkt lösenord.","portal.nordhamndigital.se/konto, glömt lösenord, mfa, nytt starkt lösenord","guide 1, lösenord","guide 1, lösenord, återställ lösenord, konto, glömt lösenord, mfa","Om du glömt ditt lösenord kan du följa dessa steg:
+
+1. Öppna webbläsaren och gå till portal.nordhamndigital.se/konto.
+2. Välj ""Glömt lösenord"" eller ""Sätt om lösenord"".
+3. Följ instruktionerna i systemtiden för att bekräfta ditt användarnamn och verifieringsmetod.
+4. Om du har MFA (Microsoft Authenticator) aktiverat, godkänn koden från Authenticator. Annars skriv in koden du får via SMS eller mejl enligt instruktionen.
+5. Skapa ett nytt starkt lösenord med minst 14 tecken och kombinera gärna lösenfras och specialtecken.
+
+Om du har problem med att logga in, kontrollera att ditt internetuppkoppling är funktionsdugligt och att mobilen har rätt tid inställd. Om det fortfarande inte fungerar, vänta 15 minuter och prova igen eller kontakta IT.
+
+Källa: test_docs/nordhamn_digital_howto_nyanstalld.pdf, sida 4.",0.7073346376419067,True,True,True,True,True,3,70.348,False,,3,0.3,ollama,llama3.2:3b
+Hur får jag min skrivare?,"Guide 8 beskriver att användaren ska skriva ut till FollowMe-Nordhamn, gå till en FollowMe-skrivare, blippa passerkort eller logga in med PIN och sedan frisläppa utskriften.","followme-nordhamn, followme, passerkort, pin, frisläpp","guide 8, followme","guide 8, followme, skrivare, passerkort, pin, säker utskrift",Följ steg 3 i dokumentet: Gå till valfri FollowMe-skrivare på kontoret.,0.7240954637527466,True,True,True,True,False,3,38.377,False,,3,0.3,ollama,llama3.2:3b
+Hur bokar jag mötesrum?,"Guide 10 beskriver att användaren ska öppna Outlook och gå till Kalender, skapa ett nytt möte, välja rum från rumslistan och skicka bokningen.","outlook, kalender, nytt möte, rum, rumslista","guide 10, mötesrum","guide 10, mötesrum, outlook, rumslista, kalender, teams-länk","För att boka ett mötesrum i Outlook, följ dessa steg:
+
+1. Öppna Outlook och gå till Kalender.
+2. Välj Nytt möte och fyll i titel, datum och tid.
+3. Lägg till deltagare och välj sedan Plats eller Rumslista.
+4. Välj ett ledigt mötesrum, till exempel ND-Göta-4 eller ND-Kajen-8, beroende på storlek.
+5. Aktivera Teams-möte om några ska delta på distans.
+6. Skicka bokningen och kontrollera att rummet accepterar inbjudan.
+
+Om du möter problem under processen, se avsnittet ""Vanliga problem och snabb felsökning"" i dokumentet för mer information.",0.7735123038291931,True,True,True,True,True,3,61.321,False,,3,0.3,ollama,llama3.2:3b
+"Jag får felmeddelande när jag loggar in i Citrix, vad gör jag nu?","Guide 2 beskriver att användaren ska kontrollera att adressen citrix.nordhamndigital.se är rätt, starta om Citrix Workspace om sessionen stänger sig och logga ut helt och öppna appen på nytt om svart skärm uppstår.","citrix.nordhamndigital.se, citrix workspace, starta om, svart skärm, logga ut","guide 2, citrix","guide 2, citrix, workspace, svart skärm, sessionen stänger, arbetsytan","Om du får felmeddelande när du loggar in i Citrix, kontrollera att:
+
+* Du har rätt tid inställd på din mobil.
+* Kontot inte är låst (vänja dig för 15 minuter och prova igen eller kontakta IT).
+* Lösenordet inte innehåller ditt namn eller tidigare lösenord.
+
+Om du fortfarande har problem, se till att du har tillgång till Microsoft Authenticator eller SMS-kod om det redan är aktiverat.",0.6460660696029663,True,True,True,True,False,3,54.51,False,,3,0.3,ollama,llama3.2:3b
+Hur kommer jag in i min mail?,"Guide 4 beskriver att användaren ska öppna Outlook, skriva in sin jobbadress, välja Jobb eller Skolkonto, ange lösenord och bekräfta inloggningen med MFA.","outlook, jobbadress, jobb eller skolkonto, lösenord, mfa","guide 4, outlook","guide 4, outlook, jobbmejl, första inloggning, kalender, mfa","För att komma in i din e-post kan du följande steg genomföra:
+
+1. Öppna webbläsaren och gå till portal.nordhamndigital.se/konto.
+2. Välj Glömt lösenord eller Sätt om lösenord.
+3. Skriv in ditt användarnamn och bekräfta att du inte är en robot om den kontrollen visas.
+4. Välj verifieringsmetod (Authenticator eller SMS-kod) och godkänn.
+5. Skapa ett nytt starkt lösenord med minst 14 tecken.
+6. Logga in på nytt i datorn, Outlook och andra appar om du blir utloggad.
+
+Om du upptäcker några problem under processen kan du prova att kontrollera din internetuppkoppling eller kontakta IT om behovet uppstår.",0.5692643523216248,False,True,True,True,False,3,64.826,False,,3,0.3,ollama,llama3.2:3b
+Hur ansluter jag till det trådlösa kontorsnätet?,"Guide 7 beskriver att användaren ska välja Nordhamn-Staff i listan över trådlösa nätverk, logga in med företagskonto och lösenord och sedan testa att öppna intranätet eller Outlook.","nordhamn-staff, trådlösa nätverk, företagskonto, lösenord, outlook","guide 7, nordhamn-staff, wifi","guide 7, wifi, nordhamn-staff, trådlöst nätverk, certifikat, kontor","Följ stegen:
+
+1. Öppna listan över trådlösa nätverk och välj Nordhamn-Staff.
+2. Om du ombeds välja säkerhetstyp använder du WPA2-Enterprise eller den standard som visas av IT.
+3. Logga in med ditt företagskonto och lösenord om datorn ber om användarnamn.
+
+Källa: test_docs/nordhamn_digital_howto_nyanstalld.pdf, sida 10",0.660248339176178,True,True,True,True,False,3,53.933,False,,3,0.3,ollama,llama3.2:3b

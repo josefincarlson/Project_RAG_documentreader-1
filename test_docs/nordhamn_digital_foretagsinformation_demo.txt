@@ -1,0 +1,794 @@
+NORDHAMN DIGITAL AB - Företagsinformation för intern sökning
+Fiktivt demodokument för RAG-testning
+Version: 1.0
+Datum: 2026-04-21
+Dokumenttyp: Intern företagsöversikt i TXT-format
+Användning: Demo- och testmaterial för dokumentassistent/RAG
+
+VIKTIGT:
+Detta dokument är helt fiktivt och skapat för att användas i testning, sökning och demonstrationsmiljöer.
+Eftersom en TXT-fil normalt inte har riktiga sidnummer innehåller dokumentet både tydliga sidmarkörer
+och sidbrytningar. Det gör det enklare att visa “var informationen hittades” även i en ren textfil.
+
+======================================================================
+[SIDA 1]
+ÖVERSIKT OCH BAKGRUND
+======================================================================
+
+Nordhamn Digital AB är ett fiktivt svenskt konsult- och produktbolag som hjälper kunder med dataanalys,
+business intelligence, rapportering, informationshantering, automation och digital arbetsplats. Bolaget
+används här som exempelorganisation för att skapa realistiskt testmaterial för en dokumentassistent med
+RAG-funktionalitet. Syftet med dokumentet är att ge många olika typer av uppgifter som en användare
+kan vilja söka fram: företagsfakta, kontor, arbetssätt, system, supportvägar, roller, ordlistor och
+praktiska rutiner för vardagen.
+
+Bolaget grundades år 2016 och har sitt huvudkontor i Göteborg. Under de första åren fokuserade Nordhamn
+Digital AB främst på rapportering i Power BI, SQL-baserad datalagring och enklare integrationslösningar.
+När marknaden förändrades breddades verksamheten till att även omfatta dataplattformar i molnet,
+styrning av information, AI-stöd i verksamhetsprocesser och rådgivning inom informationssäkerhet.
+Företaget har därför byggt upp en organisation där affärskonsulter, BI-utvecklare, data engineers,
+lösningsarkitekter, projektledare och supportfunktioner arbetar tätt tillsammans.
+
+Nordhamn Digital AB har i detta fiktiva scenario cirka 145 anställda. Av dessa arbetar ungefär
+55 personer i leveransnära roller, 28 inom data engineering och integration, 24 inom analys och BI,
+10 inom IT- och driftstöd, 8 inom informationssäkerhet och compliance, 6 inom HR och People Operations,
+7 inom ekonomi och administration, 4 inom marknad och kommunikation samt 3 i ledningsgruppen. Företaget
+har dessutom ett mindre nätverk av underkonsulter som anlitas vid arbetstoppar eller specialiserade uppdrag.
+
+Bolagets vision är att göra information användbar, begriplig och tillgänglig utan att kompromissa med
+säkerhet, kvalitet eller efterlevnad. Internt formuleras detta ofta som tre ledord:
+1. Tydlighet i data
+2. Struktur i arbetssätt
+3. Förtroende i leverans
+
+Affärsidén bygger på att kunder ska kunna få hjälp i hela kedjan från datainsamling till beslutsstöd.
+Det innebär att Nordhamn Digital AB kan stötta en kund med allt från kartläggning av källsystem,
+modellering av data, utveckling av ETL/ELT-flöden och rapporter, till utbildning av slutanvändare,
+förvaltning av lösningar och rådgivning kring styrning, säkerhet och dokumentation.
+
+De vanligaste kundsegmenten i detta fiktiva företag är:
+- Medelstora industribolag
+- Tjänsteföretag med behov av BI och uppföljning
+- Kommunnära verksamheter
+- Logistik- och transportbolag
+- E-handelsföretag med behov av försäljningsanalys
+- Bolag i tillväxtfas som behöver strukturera data och processer
+
+Nordhamn Digital AB erbjuder följande huvudtjänster:
+- Dataanalys och Business Intelligence
+- Dataplattform och integration
+- Informationsstyrning och dokumenthantering
+- Digital arbetsplats och samarbetslösningar
+- AI-stöd och intern kunskapssökning
+- Förvaltning, support och utbildning
+
+Exempel på vanliga frågor som detta dokument ska kunna hjälpa en RAG-lösning att besvara:
+- När grundades Nordhamn Digital AB?
+- Hur många anställda har företaget?
+- Vad är företagets vision?
+- Vilka kundsegment arbetar bolaget med?
+- Vilka huvudtjänster erbjuder företaget?
+- Vilket kontor är huvudkontor?
+- Hur ser organisationsstrukturen ut?
+- Vilka system använder företaget internt?
+
+Snabbfakta:
+Företagsnamn: Nordhamn Digital AB
+Grundat: 2016
+Huvudkontor: Göteborg
+Antal anställda: cirka 145
+Bransch: Data, BI, digital arbetsplats och informationshantering
+Primärt språk internt: Svenska
+Sekundärt arbetsspråk: Engelska i kundprojekt där det behövs
+E-postdomän: nordhamndigital.se
+Intranät: intranet.nordhamndigital.se
+Helpdeskportal: support.nordhamndigital.se
+
+Sökord för dokumentassistent:
+företagsfakta, grundat, vision, huvudkontor, anställda, kundsegment, tjänster, Nordhamn Digital AB
+
+======================================================================
+[SIDA 2]
+ORGANISATION, LEDNING OCH AVDELNINGAR
+======================================================================
+
+Nordhamn Digital AB är organiserat i fem huvudsakliga verksamhetsområden:
+1. Delivery & Consulting
+2. Data Platform & Integration
+3. Analytics & Insight
+4. Internal Operations
+5. Security, Governance & Compliance
+
+Delivery & Consulting ansvarar för projektledning, kunddialog, kravarbete, styrgruppsstöd och
+övergripande leveransansvar. Här arbetar projektledare, verksamhetskonsulter, lösningsrådgivare
+och seniora kundansvariga. Avdelningen fungerar ofta som brygga mellan kundens verksamhetsbehov
+och de tekniska team som bygger lösningarna.
+
+Data Platform & Integration ansvarar för datainhämtning, integrationsflöden, datalager,
+data pipelines, API-kopplingar, orkestrering och teknisk drift nära kundernas dataplattformar.
+Vanliga verktyg i denna del av organisationen är SQL Server, Azure Data Factory, Fabric,
+Databricks, Python, Git och olika API-baserade integrationsgränssnitt.
+
+Analytics & Insight fokuserar på rapporter, dashboards, KPI-definitioner, datamodellering för
+analys, visualisering och användarstöd. Teamet arbetar nära kundens controllerfunktioner,
+ledningsteam och verksamhetschefer. Power BI är det vanligaste verktyget, men teamet arbetar även
+med Excel-baserade analyser, datakvalitetsgranskning och utbildning i beslutsstöd.
+
+Internal Operations omfattar HR, ekonomi, intern IT, inköp, kontorsservice och administrativt stöd.
+Här finns funktioner som säkerställer att onboarding, utrustning, licenser, personaladministration,
+attestflöden, ekonomisk rapportering, leverantörskontakter och interna processer fungerar effektivt.
+
+Security, Governance & Compliance är en mindre men central funktion som ansvarar för säkerhetspolicy,
+behörighetsprinciper, informationsklassning, leverantörsgranskning, incidentuppföljning och stöd till
+övriga delar av organisationen i frågor som rör risk, efterlevnad och dataskydd.
+
+Ledningsgruppen består i detta exempel av:
+- VD
+- COO
+- CFO
+- Head of Delivery
+- Head of Data Platform
+- Head of Analytics
+- Head of Security & Governance
+
+VD ansvarar för strategi, kultur och övergripande affärsutveckling.
+COO ansvarar för operativ styrning, leveranskapacitet och interna arbetssätt.
+CFO ansvarar för ekonomi, prognoser, uppföljning och inköpsdisciplin.
+Head of Delivery ansvarar för konsultaffären och kundernas övergripande leverans.
+Head of Data Platform ansvarar för dataplattform, integration och teknisk metodik.
+Head of Analytics ansvarar för analysområdet, rapportering och BI-kompetens.
+Head of Security & Governance ansvarar för informationssäkerhet, policy och compliancefrågor.
+
+Varje medarbetare tillhör både en linjeorganisation och i många fall ett uppdragsteam. Det innebär
+att en person exempelvis kan tillhöra Analytics & Insight som hemmateam men samtidigt arbeta i ett
+kundprojekt tillsammans med personer från Delivery & Consulting och Data Platform & Integration.
+Denna matrisstruktur används för att skapa både tydlig kompetensutveckling och flexibel leverans.
+
+Chefskapet i bolaget bygger på fyra förväntningar:
+- Prioritera tydlighet före antaganden
+- Följ upp arbetsbelastning regelbundet
+- Säkerställ dokumentation och överlämning
+- Fatta beslut nära verksamheten när det är möjligt
+
+För nyanställda är det viktigt att förstå skillnaden mellan följande roller:
+Linjechef: ansvarar för utveckling, arbetsmiljö, uppföljning och personalfrågor.
+Projektledare: ansvarar för planering, styrning och leverans i ett specifikt uppdrag.
+Systemägare: ansvarar för ett internt eller kundnära system, dess regler och prioriteringar.
+Buddy: utsedd kollega som hjälper till med praktiska frågor under introduktionen.
+Mentor: en mer långsiktig stödperson för yrkesmässig utveckling.
+
+Vanliga interna forum:
+- Måndagsöversikt för hela bolaget
+- Leveransforum varje vecka
+- Säkerhetsforum en gång per månad
+- BI-gille varannan vecka
+- Arkitekturforum varannan vecka
+- People review kvartalsvis
+- Ledningsforum varje vecka
+
+Exempel på frågor som ska kunna hittas i denna del:
+- Hur är Nordhamn Digital AB organiserat?
+- Vad ansvarar Internal Operations för?
+- Vem sitter i ledningsgruppen?
+- Vad är skillnaden mellan linjechef och projektledare?
+- Vilka forum finns internt?
+
+Sökord:
+organisation, ledningsgrupp, avdelningar, linjechef, projektledare, systemägare, buddy, mentor
+
+======================================================================
+[SIDA 3]
+KONTOR, PRAKTISK INFORMATION OCH ARBETSPLATS
+======================================================================
+
+I den här fiktiva miljön har Nordhamn Digital AB tre kontor:
+- Göteborg (huvudkontor)
+- Stockholm
+- Malmö
+
+Huvudkontoret i Göteborg ligger på Lindholmen och är företagets största kontor. Där finns ledning,
+ekonomi, HR, intern IT samt flera leveransteam. Kontoret används också för kundworkshops, interna
+utbildningar och introduktionsdagar för nyanställda. Receptionen är bemannad helgfria vardagar
+mellan kl. 08.00 och 16.30.
+
+Stockholmskontoret är mindre och används främst av säljfunktion, kundansvariga och team som arbetar
+med kunder i Mälardalen. Malmökontoret fungerar som regional hubb för södra Sverige och används även
+som mötesplats för hybridteam och rekryteringsintervjuer.
+
+Normala öppettider för kontoren är:
+Måndag-fredag: 07.00-18.00
+Reception huvudkontor Göteborg: 08.00-16.30
+Kontoren är stängda för ordinarie besök på röda dagar och vissa klämdagar enligt intern kalender.
+
+Praktisk kontorsinformation:
+- Besökare ska alltid registreras i receptionen eller via bokad värd.
+- Passerkort är personliga och får inte lånas ut.
+- Clean desk gäller vid dagens slut och vid längre frånvaro under dagen.
+- Whiteboards med kundinformation ska fotograferas vid behov och därefter rensas.
+- Skärmlås ska användas även vid kortare pauser.
+- Konfidentiellt material får inte lämnas framme i mötesrum.
+
+Konferensrum på Göteborgskontoret har fiktiva namn inspirerade av hamn- och kustmiljöer:
+- Kajen
+- Fyren
+- Lotsen
+- Skäret
+- Hamninloppet
+- Kompassen
+- Bränningen
+
+De vanligaste praktiska frågorna från nyanställda handlar om:
+- Hur bokar man mötesrum?
+- Var finns skrivare och skanner?
+- Hur får man tag i extra skärm, mus eller tangentbord?
+- Var hittar man kaffe, frukt och lunchrum?
+- Vem kontaktar man om passerkortet inte fungerar?
+- Vilka dagar är det störst chans att teamet är på plats?
+
+Mötesrum bokas via Outlook-resurser. Alla konferensrum ligger som bokningsbara resurser i kalendern
+och ska bokas med tydlig rubrik. Om ett rum bokas för workshop eller kundmöte rekommenderas att man
+lägger in information om syfte, kontaktperson och behov av teknikstöd direkt i bokningen.
+
+Skrivare finns på varje kontor och heter i denna miljö:
+- ND-GOT-PRINT-01
+- ND-STH-PRINT-01
+- ND-MAL-PRINT-01
+
+Utskrifter som innehåller kunddata, personuppgifter eller ekonomiskt känslig information ska hämtas
+omedelbart. Stora utskrifter eller material till utbildningar ska i normalfallet planeras i förväg.
+
+Standardutrustning för anställda i kontorsbaserade roller:
+- Bärbar dator
+- Laddare
+- Extern skärm
+- Dockningsstation
+- Mus
+- Tangentbord
+- Headset
+- Mobiltelefon för roller som behöver hög tillgänglighet
+- Eventuellt extra skärm eller ergonomiska hjälpmedel efter behov
+
+För arbetsmiljö och ergonomi gäller att den anställde ska kunna arbeta med rimlig belastning både på
+kontoret och i hemmiljö vid godkänt distansarbete. Justerbara stolar, skärmar i rätt höjd, pausvanor,
+belysning och möjlighet till variation är återkommande teman i företagets interna arbetsmiljöarbete.
+
+Intern service i Göteborg:
+- Frukostmöjlighet på måndagar
+- Gemensam fruktkorg tre gånger per vecka
+- Lunchrum med kyl, mikro och diskmaskin
+- Låsbara skåp för personlig förvaring
+- Tyst zon för koncentrationsarbete
+- Telefonrum för digitala möten
+
+Onsdagar är i denna fiktiva organisation den vanligaste dagen för fysisk närvaro i teamen eftersom
+många verksamhetsmöten, onboardingaktiviteter och gemensamma forum läggs då. Det är därför ofta mer
+liv på kontoret i mitten av veckan än på måndagar och fredagar.
+
+Vanliga frågor för RAG-sökning:
+- Vilka kontor har företaget?
+- Var ligger huvudkontoret?
+- Hur bokar man mötesrum?
+- Vad heter skrivarna?
+- Vad ingår i standardutrustningen?
+- När är receptionen öppen?
+- Vad gäller för besökare och passerkort?
+
+Sökord:
+kontor, huvudkontor, reception, mötesrum, skrivare, passerkort, clean desk, standardutrustning
+
+======================================================================
+[SIDA 4]
+IT-MILJÖ, KONTON, INLOGGNING OCH SYSTEM
+======================================================================
+
+Nordhamn Digital AB använder i denna fiktiva miljö en modern men relativt standardiserad IT-miljö.
+Målet är att nyanställda snabbt ska kunna förstå vilka system som används till vad, vilka konton som
+är centrala och hur access beställs, ändras och avslutas.
+
+Alla anställda får ett primärt användarkonto i företagets domän:
+nordhamn.local
+
+Den externa e-postdomänen är:
+@nordhamndigital.se
+
+Ett exempel på användar-ID kan vara:
+förnamn.efternamn@nordhamndigital.se
+
+De viktigaste systemen under de första arbetsdagarna är:
+- Microsoft 365
+- Outlook
+- Teams
+- SharePoint
+- OneDrive
+- Citrix Workspace
+- Business Control
+- ServiceHub
+- Intranätet
+- MFA-appen Nordhamn Verify
+
+Microsoft 365 används för e-post, dokument, teamsamarbete, möten och gemensamma filer.
+Outlook är standard för e-post, kalender och resursbokning.
+Teams används för chatt, möten, snabb samverkan och vissa projektkanaler.
+SharePoint används för teamytor, processdokument, styrande dokument och delade arbetsytor.
+OneDrive används för personligt arbetsmaterial som inte är den långsiktiga teamlagringsplatsen.
+Citrix Workspace används för att nå vissa publicerade företagsapplikationer, bland annat äldre
+ekonomilösningar, vissa kundspecifika verktyg och särskilt skyddade interna system.
+Business Control är företagets fiktiva ekonomisystem för leverantörsfakturor, attest, budgetuppföljning,
+kostnadsställen och vissa typer av intern rapportering.
+ServiceHub är helpdeskportalen där användare registrerar ärenden om IT, access, utrustning och support.
+Intranätet samlar nyheter, policydokument, checklistor, kontaktvägar och guider.
+Nordhamn Verify är företagets fiktiva MFA-lösning för flerfaktorsautentisering.
+
+Typisk onboardingordning för systemåtkomst:
+1. Konto skapas i domänen
+2. E-post aktiveras i Microsoft 365
+3. MFA registreras
+4. Teams och Outlook testas
+5. Citrix Workspace installeras vid behov
+6. Access till Business Control eller andra system ges enligt roll
+7. Teamytor, SharePoint och projektmappar öppnas
+8. Särskilda kundspecifika accesser hanteras separat
+
+Det finns tre huvudkategorier av access:
+- Grundaccess: e-post, Teams, SharePoint, intranät, helpdesk
+- Rollaccess: exempelvis Business Control, Power BI-arbetsytor, projektverktyg
+- Särskild access: adminbehörighet, kundmiljöer, känsliga system eller tillfällig projektaccess
+
+Intern IT arbetar enligt principen “least privilege”, vilket innebär att en användare bara ska ha
+den åtkomst som krävs för arbetet. Tillfällig access ska om möjligt ha ett slutdatum redan vid beställning.
+
+Vanliga system i den fiktiva miljön och deras funktion:
+- Outlook: e-post, kalender, mötesbokning
+- Teams: intern kommunikation och digitala möten
+- SharePoint: gemensam dokumentyta
+- OneDrive: personliga arbetsdokument
+- Power BI Service: publicering och delning av rapporter
+- Business Control: ekonomi och attest
+- Citrix Workspace: fjärråtkomst till publicerade appar
+- Jira: uppgifter och teamplanering i vissa tekniska team
+- Confluence: teknisk dokumentation
+- ServiceHub: supportärenden och beställningar
+- Nordhamn Verify: MFA och identitetsbekräftelse
+
+System som är extra viktiga för nyanställda:
+- Outlook första dagen
+- Teams första dagen
+- Intranätet första veckan
+- ServiceHub första veckan
+- Citrix när arbetsrollen kräver det
+- Business Control för chefer, ekonomi och vissa administrativa roller
+
+Interna systemägare i denna fiktiva miljö:
+- Outlook/M365: Intern IT
+- Citrix Workspace: Plattformsteamet
+- Business Control: Ekonomiavdelningen
+- SharePoint/Intranät: Internal Operations + Intern IT
+- Power BI tenant: Analytics Governance Team
+- ServiceHub: Intern IT
+
+Vanliga frågor:
+- Vilken domän använder företaget?
+- Vad används Citrix till?
+- Vad är Business Control?
+- Vilka system ska vara igång dag 1?
+- Hur skiljer sig SharePoint från OneDrive?
+- Vem äger Business Control?
+- Vad används ServiceHub till?
+
+Sökord:
+Citrix, Business Control, Outlook, Microsoft 365, SharePoint, OneDrive, MFA, domän, konto, access
+
+======================================================================
+[SIDA 5]
+ARBETSSÄTT, PROJEKTMODELL OCH LEVERANS
+======================================================================
+
+Nordhamn Digital AB arbetar i denna fiktiva miljö med en kombination av projektleverans,
+förvaltningsåtaganden och löpande rådgivning. Det innebär att olika team kan ha olika arbetssätt
+beroende på kundens behov, avtalets omfattning och graden av förändring i leveransen.
+
+Tre vanliga leveransformer används:
+1. Fast projekt
+2. Löpande förvaltning
+3. Konsultstöd och specialistinsats
+
+Fast projekt används när det finns ett tydligt mål, en avgränsad omfattning och en definierad plan.
+Exempel kan vara att bygga en ny Power BI-lösning, införa en dataplattform eller strukturera ett
+dokumenthanteringsflöde för en kund. I sådana projekt arbetar man ofta med styrgrupp, sprintplanering,
+milstolpar, designbeslut och överlämning till förvaltning.
+
+Löpande förvaltning används när en kund redan har en etablerad lösning som behöver utvecklas, stödjas
+eller övervakas över tid. Det kan handla om incidenter, ändringsönskemål, användarstöd, mindre
+förbättringar och planerade releaser. Förvaltningsteam arbetar ofta med backlog, prioriteringsmöten
+och tydliga SLA-nivåer.
+
+Konsultstöd och specialistinsats innebär att en eller flera personer går in i kundens verksamhet under
+en period för att hjälpa till med analys, utveckling, kravarbete eller strategi. Denna typ av uppdrag
+kan vara mer flexibel och mindre formaliserad men ska ändå dokumenteras tydligt.
+
+Nordhamn Digital AB:s interna projektmodell består av följande faser:
+- Förstudie
+- Planering
+- Genomförande
+- Test och kvalitetssäkring
+- Driftsättning
+- Överlämning
+- Uppföljning
+
+I förstudien identifieras målbild, nuläge, risker, systempåverkan, informationsbehov och nyckelintressenter.
+I planeringen bestäms ansvar, tidslinje, beroenden, prioriteringar, teststrategi och kommunikationssätt.
+Under genomförandet byggs lösningen iterativt med dokumenterade beslut och regelbunden avstämning.
+I testfasen granskas funktion, datakvalitet, logik, säkerhet och användbarhet.
+Vid driftsättning ska införandeplan, rollback-plan och kontaktvägar vara tydliga.
+Överlämning innebär dokumentation, utbildning, kunskapsdelning och tydlig ansvarsfördelning.
+Uppföljning görs för att förstå om lösningen skapade önskad nytta och om något behöver justeras.
+
+Viktiga principer i leveransmodellen:
+- Det ska vara tydligt vem som beslutar och vem som utför.
+- Alla kundkritiska förändringar ska dokumenteras.
+- Test är en del av leveransen, inte något man gör om tid finns kvar.
+- Beslut som påverkar data eller säkerhet ska kunna spåras.
+- Kundkommunikation ska vara saklig, tydlig och regelbunden.
+- Ingen ska vara ensam kunskapsbärare för centrala delar av en lösning.
+
+Kvalitetssäkring i vardagen kan omfatta:
+- Peer review av rapporter eller kod
+- Kontroll mot källdata
+- Granskning av behörigheter
+- Avstämning av KPI-definitioner
+- Genomgång av namnstandard och dokumentation
+- Test i separat miljö
+- Checklista inför publicering
+
+För analytiker och BI-konsulter gäller ofta följande arbetssätt:
+- Bekräfta affärsfrågan innan rapport byggs
+- Dokumentera mått, filterlogik och datakällor
+- Testa siffror mot källa
+- Skriv tydliga rubriker och definitioner
+- Säkerställ att användaren förstår vad rapporten visar och inte visar
+
+För data engineers gäller ofta:
+- Tydlig loggning
+- Versionshantering
+- Testbara pipelines
+- Namngivningsstandard
+- Bevakning av fel och återkörning
+- Dokumentation av beroenden och scheman
+
+Vanliga frågor i denna del:
+- Hur ser projektmodellen ut?
+- Vilka leveransformer finns?
+- Vad ingår i överlämning?
+- Vad menas med kvalitetssäkring?
+- När används förvaltning i stället för projekt?
+- Vad ska dokumenteras i ett kundprojekt?
+
+Sökord:
+projektmodell, leverans, förvaltning, kvalitetssäkring, peer review, driftsättning, överlämning, test
+
+======================================================================
+[SIDA 6]
+HR, ONBOARDING, FRÅNVARO OCH VARDAGSRUTINER
+======================================================================
+
+För en nyanställd är det ofta viktigast att snabbt förstå hur arbetsdagen fungerar i praktiken.
+Därför innehåller denna del information om onboarding, kontaktvägar, frånvaro, semesterrutiner och
+vardagliga processer som ofta blir sökfrågor i en dokumentassistent.
+
+Onboarding på Nordhamn Digital AB är uppdelad i fyra steg:
+1. Före start
+2. Dag 1
+3. Vecka 1-4
+4. Månad 2-3
+
+Före start ansvarar HR och intern IT för att avtal, konto, dator, MFA och grundläggande access är
+förberedda. Den nyanställde får välkomstmejl, introduktionsschema och information om första dagen.
+
+Dag 1 innehåller normalt:
+- Välkomstmöte med chef
+- Genomgång av roll och förväntningar
+- Utdelning av utrustning
+- Inloggningstest i e-post och Teams
+- Kort introduktion till intranätet
+- Presentation för teamet
+- Lunch med buddy eller teamrepresentant
+
+Vecka 1-4 fokuserar på:
+- Policygenomgång
+- Arbetsmiljöinformation
+- Introduktion till projekt och system
+- Avstämningar med chef
+- Möten med nyckelpersoner
+- Successiv ökning av arbetsuppgifter
+- Första lärplan eller utvecklingsplan
+
+Månad 2-3 fokuserar på:
+- Fördjupning i roll
+- Självständigare leverans
+- Feedbacksamtal
+- Justering av mål
+- Eventuell uppföljning av provanställning
+
+Vanliga kontaktvägar:
+- HR-frågor: hr@nordhamndigital.se
+- IT-support: support@nordhamndigital.se
+- Passerkort eller kontorsservice: office@nordhamndigital.se
+- Ekonomifrågor: ekonomi@nordhamndigital.se
+- Säkerhetsfrågor: security@nordhamndigital.se
+
+Arbetstid i denna fiktiva miljö:
+- Ordinarie heltidsmått: 40 timmar per vecka
+- Rekommenderad kärntid: 09.00-15.00
+- Flex utanför kärntid enligt teamets arbetssätt
+- Möten bör i normalfallet undvikas före 08.30 och efter 16.30 om det inte finns särskilda skäl
+
+Frånvaro och ledighet:
+- Sjukfrånvaro anmäls till chef så tidigt som möjligt samma dag
+- Frånvaro registreras i personalsystemet
+- Semester planeras i dialog med chef
+- Ledighet ska som huvudregel vara godkänd innan resa bokas
+- Vid längre frånvaro görs överlämning i god tid
+- Autosvar rekommenderas vid semester och annan längre ledighet
+
+Praktiska vardagsrutiner:
+- Uppdatera kalender vid frånvaro, fokusarbete och kundmöten
+- Använd tydliga mötesrubriker
+- Lägg dokument i rätt teamyta, inte enbart lokalt
+- Registrera supportärenden i ServiceHub i stället för att bara skicka chattmeddelande
+- Spara viktiga beslut skriftligt i rätt kanal eller dokumentation
+- Kontrollera att gäster och externa personer bara får åtkomst till rätt material
+
+Förmåner i den fiktiva miljön:
+- Friskvårdsbidrag
+- Möjlighet till terminalglasögon enligt process
+- Kompetensutveckling enligt lärplan
+- Hybridarbete enligt teamöverenskommelse
+- Företagshälsovård vid behov
+- Interna kunskapsdelningar och utbildningspass
+
+Vanliga frågor:
+- Hur fungerar onboarding?
+- Vem kontaktar jag om datorn inte fungerar första dagen?
+- Hur anmäler jag sjukfrånvaro?
+- När ska semester registreras?
+- Vad är kärntiden?
+- Vem hjälper mig om passerkortet inte fungerar?
+- Hur ser introduktionsprocessen ut efter dag 1?
+
+Sökord:
+onboarding, sjukfrånvaro, semester, kärntid, HR, introduktion, buddy, frånvaro, passerkort
+
+======================================================================
+[SIDA 7]
+EKONOMI, BUSINESS CONTROL, SUPPORT OCH VANLIGA SCENARIER
+======================================================================
+
+Business Control är i denna fiktiva miljö företagets centrala ekonomisystem. Det används av
+ekonomiavdelningen, chefer och vissa administrativa roller för att hantera leverantörsfakturor,
+kontering, attest, kostnadsställen, budgetuppföljning och ekonomiska rapporter. För de flesta
+medarbetare är Business Control inte ett system man arbetar i varje dag, men många behöver förr
+eller senare förstå hur attest, kostnader eller underlag hanteras.
+
+Business Control nås i normalfallet via Citrix Workspace. Det beror på att systemet i den här
+fiktiva miljön är publicerat som en skyddad applikation och inte installeras lokalt på datorn.
+För att logga in i Business Control krävs därför oftast:
+1. Aktivt företagskonto
+2. Registrerad MFA
+3. Installerad Citrix Workspace
+4. Tilldelad roll i ekonomisystemet
+5. Rätt nätverks- eller policyåtkomst
+
+Vanliga användarroller i Business Control:
+- Attestant
+- Beställare
+- Ekonomiadministratör
+- Controller
+- CFO/ekonomichef
+- Läsbehörig chef
+
+Exempel på vad Business Control används till:
+- Attestera leverantörsfakturor
+- Se kostnadsställen
+- Följa upp budgetutfall
+- Hantera periodiseringar i vissa flöden
+- Söka fakturabilder eller ekonomiska verifikationer
+- Kontrollera status i ett attestflöde
+
+Om en användare inte kommer in i Business Control ska följande kontrolleras:
+- Är företagskontot aktivt?
+- Fungerar MFA?
+- Är Citrix installerat och uppdaterat?
+- Har användaren rätt roll i Business Control?
+- Har kontot rätt åtkomst från intern IT?
+- Finns det en pågående driftstörning?
+
+Supportmodellen i företaget är uppdelad i tre nivåer:
+Nivå 1: Helpdesk / ServiceHub
+Nivå 2: Specialister inom intern IT, plattform eller applikation
+Nivå 3: Systemägare, leverantör eller tekniskt specialistteam
+
+Exempel på ärendekategorier i ServiceHub:
+- Ny användare
+- Lösenordsproblem
+- MFA-problem
+- Outlook och e-post
+- Teams och möten
+- Citrix Workspace
+- Business Control
+- Utrustning och tillbehör
+- Passerkort
+- Behörighetsändring
+- Programvarubeställning
+- Säkerhetsincident eller misstänkt phishing
+
+Prioriteringsmodell för supportärenden:
+P1: Stopp i affärskritisk tjänst eller många användare drabbade
+P2: Viktig funktion påverkas men det finns tillfällig lösning
+P3: Enstaka användare eller begränsad påverkan
+P4: Beställning, fråga eller förbättringsönskemål
+
+Vanliga scenarier för nyanställda:
+Scenario 1: Outlook fungerar inte första dagen
+Åtgärd: Kontrollera konto, lösenord, nätverk, MFA och licens. Registrera ärende om felet kvarstår.
+
+Scenario 2: Citrix startar men Business Control syns inte
+Åtgärd: Kontrollera om rollen är tilldelad, om appen är publicerad för användaren och om användaren
+loggat ut/in efter senaste behörighetsändringen.
+
+Scenario 3: Passerkort fungerar inte i entrén
+Åtgärd: Kontakta reception eller office-funktionen och kontrollera om kortet är aktiverat.
+
+Scenario 4: Teams-möten saknar ljud
+Åtgärd: Kontrollera headset, ljudinställningar, Teams-klient och om annan app använder mikrofonen.
+
+Scenario 5: Power BI-rapport visar fel siffror
+Åtgärd: Säkerställ filter, datakälla, uppdateringsstatus och om någon ändring nyligen gjorts i modell
+eller underliggande dataflöde.
+
+Exempel på frågor som denna sida kan hjälpa till att besvara:
+- Vad är Business Control?
+- Hur loggar man in i Business Control?
+- Måste man använda Citrix för Business Control?
+- Hur är supporten organiserad?
+- Vad betyder P1, P2, P3 och P4?
+- Vad gör man om Citrix fungerar men Business Control saknas?
+
+Sökord:
+Business Control, ekonomi, Citrix Workspace, support, ServiceHub, attest, kostnadsställe, P1, P2
+
+======================================================================
+[SIDA 8]
+ORDLISTA, FAQ OCH EXTRA SÖKDATA FÖR RAG
+======================================================================
+
+Den här sista sidan är särskilt utformad för att vara användbar i en dokumentassistent. Här finns en
+ordlista, vanliga frågor och sökbegrepp som gör det lättare att testa både exakta och mer semantiska
+frågor i en RAG-lösning.
+
+ORDLISTA
+
+Access:
+Tilldelad åtkomst till system, filer eller funktioner baserat på roll och behov.
+
+Attest:
+Godkännande av kostnad, faktura eller annan ekonomisk transaktion.
+
+Business Control:
+Företagets ekonomisystem för fakturor, attest, budgetuppföljning och ekonomiska arbetsflöden.
+
+Buddy:
+Utsedd kollega som hjälper nyanställda med praktiska frågor i början.
+
+Citrix Workspace:
+Klient för att starta publicerade applikationer eller fjärrsessioner i en kontrollerad miljö.
+
+Clean desk:
+Arbetssätt där dokument och känslig information inte lämnas framme utan uppsikt.
+
+Confluence:
+Dokumentationsverktyg som används av vissa tekniska team.
+
+Domän:
+Företagets interna identitetsmiljö, här kallad nordhamn.local.
+
+Helpdesk:
+Första linjens supportfunktion som tar emot och triagerar ärenden.
+
+Intranät:
+Intern webbplats med nyheter, guider, policydokument och kontaktvägar.
+
+Kärntid:
+Tidsintervall då medarbetare som huvudregel ska vara möjliga att nå för samarbete.
+
+Least privilege:
+Princip som innebär att användare bara ska ha den åtkomst de behöver.
+
+MFA:
+Flerfaktorsautentisering, alltså extra verifiering utöver lösenord.
+
+OneDrive:
+Personlig lagringsyta för arbetsmaterial som inte ska vara enda platsen för gemensamma dokument.
+
+SharePoint:
+Gemensam plattform för delade dokument, teamytor och strukturerad informationslagring.
+
+ServiceHub:
+Fiktiv helpdeskportal för supportärenden, beställningar och accessfrågor.
+
+Systemägare:
+Person eller funktion som ansvarar för regler, prioriteringar och förvaltning av ett system.
+
+VANLIGA FRÅGOR OCH DIREKTA SVAR
+
+Fråga: När grundades Nordhamn Digital AB?
+Svar: Företaget grundades år 2016.
+
+Fråga: Var ligger huvudkontoret?
+Svar: Huvudkontoret ligger i Göteborg.
+
+Fråga: Hur många anställda har företaget?
+Svar: Cirka 145 anställda i detta fiktiva exempel.
+
+Fråga: Vad används Citrix Workspace till?
+Svar: För att nå publicerade applikationer och vissa skyddade interna system, exempelvis Business Control.
+
+Fråga: Vad är Business Control?
+Svar: Ett fiktivt ekonomisystem för fakturor, attest, budgetuppföljning och ekonomiska arbetsflöden.
+
+Fråga: Vilken domän använder företaget?
+Svar: nordhamn.local
+
+Fråga: Vilken e-postdomän har företaget?
+Svar: nordhamndigital.se
+
+Fråga: Hur anmäler man supportärenden?
+Svar: Via ServiceHub eller helpdeskens kontaktvägar.
+
+Fråga: Vad ingår i standardutrustning?
+Svar: Bärbar dator, laddare, extern skärm, dockningsstation, mus, tangentbord och headset.
+
+Fråga: Vilka kontor har företaget?
+Svar: Göteborg, Stockholm och Malmö.
+
+Fråga: Vad är kärntiden?
+Svar: Rekommenderad kärntid är 09.00-15.00.
+
+Fråga: Hur fungerar onboarding?
+Svar: Den är uppdelad i före start, dag 1, vecka 1-4 och månad 2-3.
+
+EXTRA SÖKFRASER FÖR TESTNING
+
+Testfrågor för exakt matchning:
+- När grundades Nordhamn Digital AB?
+- Vad används Business Control till?
+- Hur många anställda har företaget?
+- Var ligger huvudkontoret?
+- Vilken domän har bolaget?
+
+Testfrågor för semantisk sökning:
+- Hur kommer jag åt ekonomisystemet?
+- Vad heter företagets ekonomiplattform?
+- Var ska jag skapa supportärenden?
+- Hur funkar introduktionen för nya medarbetare?
+- Vilka kontor finns och var finns reception?
+- Hur ser företagets organisation ut?
+- Vilka system behöver jag första arbetsdagen?
+- Vad gäller om mitt passerkort inte fungerar?
+- Hur arbetar bolaget med BI och data?
+- Vem kontaktar jag om min dator inte fungerar?
+
+NYCKELORDSBLOCK FÖR RAG
+Nordhamn Digital AB, Göteborg, Stockholm, Malmö, Business Control, Citrix Workspace, Outlook,
+Microsoft 365, Teams, SharePoint, OneDrive, ServiceHub, helpdesk, onboarding, HR, passerkort,
+standardutrustning, support, ekonomisystem, attest, ledningsgrupp, kärntid, intranät, MFA,
+domän, användarkonto, kontor, reception, projektmodell, leverans, kvalitetssäkring
+
+SLUTNOT
+Denna TXT-fil är avsedd att ge en dokumentassistent tillräckligt mycket varierad och strukturerad
+text för att kunna demonstrera sökning, chunks, källhänvisning och svar med sidreferenser. Om du
+vill testa tydligare sidhantering i din app kan samma innehåll också användas som grund för en PDF
+eller DOCX, men denna version är medvetet skapad som ren text för att visa att även TXT-format kan
+fungera bra i en RAG-pipeline när dokumentet är tydligt strukturerat.
+
+Sökord:
+ordlista, FAQ, Citrix, Business Control, support, onboarding, kärntid, e-postdomän, domän, kontor
