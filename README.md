@@ -334,4 +334,4 @@ För verksamheter med höga sekretesskrav rekommenderas lokal körning via Ollam
 
 ## 👨‍💻 Utvecklat av
 
-Josefin Carlson — BI25, Machine Learning / AI
+Josefin Carlson — BI25, Machine Learning / AI 
