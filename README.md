@@ -63,6 +63,7 @@ Dokument → Chunking → Embeddings → Vector search → LLM → Svar
 
 
 ## 📁 Projektstruktur
+```text
 Project_RAG_documentreader/
 │
 ├── app_streamlit.py                  # Streamlit-appens huvudfil
@@ -71,24 +72,26 @@ Project_RAG_documentreader/
 ├── .env.example                      # Exempel på miljövariabler
 ├── .gitignore                        # Filer och mappar som inte ska versionshanteras
 │
-├──evaluation/
+├── evaluation/
 │   ├── evaluation.py                 # Automatisk utvärdering av retrieval och svar
 │   ├── evaluation_results.csv        # Resultat från senaste evalueringen
-│   └──evaluation_visualisering.ipynb # Notebook för visualisering av resultaten
+│   ├── evaluation_visualisering.ipynb # Notebook för visualisering av resultaten
+│   └── Skillad_svarstid_LLM_lokal_vs_moln.jpg # Bild/diagram över svarstid
 │
 ├── src/
 │   ├── config.py                     # Samlade inställningar för appen
 │   ├── config_utils.py               # Hjälpfunktioner för config, policy och validering
 │   ├── chunking.py                   # Delar upp text i chunks och filtrerar lågkvalitativ text
 │   ├── embeddings.py                 # Skapar vektorrepresentationer för text och frågor
-│   ├── llm.py                        # Anropar vald LLM-provider (Ollama eller Gemini)
+│   ├── llm.py                        # Anropar vald LLM-provider, Ollama eller Gemini
 │   ├── loaders.py                    # Läser in dokument och extraherar text
-│   ├── rag_pipeline.py               # Hanterar hela RAG-flödet från fråga till svar
+│   ├── rag_pipeline.py               # Hanterar RAG-flödet från fråga till svar
 │   ├── retriever.py                  # Retrieval via embeddings och cosine similarity
 │   └── ui_components.py              # Återanvändbara UI-komponenter för Streamlit
 │
 ├── test_docs/                        # Testdokument
 └── test_folder/                      # Testscript
+```
 
 
 ---
